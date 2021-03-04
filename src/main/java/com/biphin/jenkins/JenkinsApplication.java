@@ -11,7 +11,7 @@ public class JenkinsApplication {
 	
 	@GetMapping
 	public String heello() {
-		return "Hello Jenkins, here I come, lets seee, hahaha";
+		return "Hello Jenkins, here I come, lets seee, hahaha.";
 	}
 
 	public static void main(String[] args) {
